@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>501DE7B2-500D-4BC3-9AA9-1E989D58301A</string>
+	<string>832BFA3E-D5C4-4A6A-97DD-A6D3F87D175F</string>
 	<key>IDESourceControlProjectName</key>
 	<string>TodoList</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -13,7 +13,7 @@
 		<key>98E819473AE87B7D5C66E1BBD907E51FC2C650E7</key>
 		<string>github.com:bitcasa/bitcasa-cloudfs-sdk-ios.git</string>
 		<key>C63CEB68B4B4A74428F33012C3C55899EBE662D4</key>
-		<string>gitlab.calcey.itm:bitcasa/todolist-ios.git</string>
+		<string>git.calcey.net:bitcasa/todolist-ios.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>TodoList/TodoList.xcodeproj</string>
@@ -25,7 +25,7 @@
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>gitlab.calcey.itm:bitcasa/todolist-ios.git</string>
+	<string>git.calcey.net:bitcasa/todolist-ios.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>

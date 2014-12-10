@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BC_API_SERVER_URL</key>
+	<string>https://xk09pv9fc5.cloudfs.io</string>
+	<key>BC_CLIENT_ID</key>
+	<string>bJ9tTcy2DnvBbF7hJ2j_MSEgfDJ5wXmrN9QcJh04e7A</string>
+	<key>BC_SECRET</key>
+	<string>1y5U1eIVhW4SHonquOCtzbpNotM6wd7OUTFOwMcEIjpBs20i92P26Aa0Df_67CzsXxXZcoirM9ogJ48HmlMULQ</string>
+	<key>BC_USER_REGISTRATION_URL</key>
+	<string>http://172.16.1.22:8011/api/user/</string>
+	<key>BC_USER_AUTH_URL</key>
+	<string>http://172.16.1.22:8011/api/authenticate/</string>
+</dict>
+</plist>
