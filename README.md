@@ -11,7 +11,7 @@ This implementation of the Todo List has been done using the [CloudFS iOS](https
 First you need to clone the *ToDoList-iOS* project files to your workspace:
 
     $ cd /path/to/your/workspace
-    $ git clone git@github.com:bitcasa/ToDoList-iOS.git projectname  
+    $ git clone https://github.com/bitcasa/ToDoList-iOS.git projectname
     $ cd projectname
 
 ### 2. Requirements
